@@ -101,4 +101,5 @@ async def on_message(message):
         await message.channel.send(f"{reply} {emoji}")
 
 # ----------------- RUN BOT -----------------
-client.run("DISCORD_TOKEN")
+client.run("MTQwNjI1MzI3OTkzOTI2ODcyOA.GYvAuw.tXmZxVkrR2wzHzSE0qDRN-t4-oBT3giqCQV8T4")
+
